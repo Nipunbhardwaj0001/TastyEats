@@ -111,26 +111,10 @@ tasty-eats/
 
 <img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/af0c499a-0a76-437e-8c3d-05a94f894f5e" />
 
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1.  Fork the repository.
-2.  Create a new branch for your feature or bug fix.
-3.  Make your changes and commit them with descriptive commit messages.
-4.  Push your changes to your fork.
-5.  Submit a pull request.
-
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## 📬 Contact
 
-For questions or inquiries, please contact: [Your Name/Organization] - [Your Email]
+For questions or inquiries, please contact: bhardwajnipun49@gmail.com
 
 ## 💖 Thanks Message
 
 Thank you for checking out TastyEats! We hope you find it helpful and enjoyable. Your feedback and contributions are highly appreciated!
-
-This is written by [readme.ai](https://readme-generator-phi.vercel.app/).
