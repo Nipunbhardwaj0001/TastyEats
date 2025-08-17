@@ -2,6 +2,9 @@
 
 TastyEats is a cutting-edge food ordering application built with React, Redux, and a host of other modern technologies. It allows users to browse restaurants, view menus, add items to their cart, and place orders seamlessly. This project aims to provide a smooth and efficient food ordering experience.
 
+- Visit TastyEats
+https://tasty-eats-app.vercel.app/
+
 ## 🚀 Key Features
 
 - **Restaurant Browsing:** Browse a wide variety of restaurants with detailed information. 🏢
